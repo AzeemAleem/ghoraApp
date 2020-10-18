@@ -3,7 +3,7 @@ import { Row, Col, Input,Avatar } from 'antd';
 import { HomeFilled, CommentOutlined, NotificationFilled } from '@ant-design/icons';
 import logo from "../images/login/logo.png";
 import profile from '../images/profile.jpg';
-import Link from 'react-router-dom';
+import {Link} from "react-router-dom";
 import './navbar.scss';
 
 const { Search } = Input;
@@ -23,10 +23,12 @@ class Navbar extends Component {
 			<div id='nav'>
 				<Row className='container-row'>
 					<Col span={6}>
+						<Link to='/profilepage'>
 						<img
 							src={logo}
 							style={{ width: '20%', marginLeft: '3rem', alignItems: 'center' }}
 						/>
+						</Link>
 					</Col>
 					<Col span={6} />
 					<Col span={6} className='search-column'>
@@ -45,10 +47,12 @@ class Navbar extends Component {
 						<Avatar size='large' icon={<img src={profile}/>}/>
 					</Col>
 					{this.state.profile ? (
-						<div className='profile'>
-							{/* <Link to="/usrProfile"><p>Profile</p></Link> */}
+						<div className='profile' style={{zIndex:'100'}}>
+							<Link to="/usrProfile"><a>Profile</a></Link>
 							<hr />
-							<p>Log Out</p>
+							<Link to="/usrProfile">Log out</Link>
+
+							
 						</div>
 					) : (
 						''
