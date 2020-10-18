@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/ghoraApp/static/css/main.ab6b3ca3.chunk.css",
+    "main.js": "/ghoraApp/static/js/main.b0cbbdda.chunk.js",
+    "main.js.map": "/ghoraApp/static/js/main.b0cbbdda.chunk.js.map",
+    "runtime-main.js": "/ghoraApp/static/js/runtime-main.f135a943.js",
+    "runtime-main.js.map": "/ghoraApp/static/js/runtime-main.f135a943.js.map",
+    "static/css/2.fc5a9450.chunk.css": "/ghoraApp/static/css/2.fc5a9450.chunk.css",
+    "static/js/2.e59e8cd1.chunk.js": "/ghoraApp/static/js/2.e59e8cd1.chunk.js",
+    "static/js/2.e59e8cd1.chunk.js.map": "/ghoraApp/static/js/2.e59e8cd1.chunk.js.map",
+    "index.html": "/ghoraApp/index.html",
+    "precache-manifest.26a2a49626186917081ffa023c4ead41.js": "/ghoraApp/precache-manifest.26a2a49626186917081ffa023c4ead41.js",
+    "service-worker.js": "/ghoraApp/service-worker.js",
+    "static/css/2.fc5a9450.chunk.css.map": "/ghoraApp/static/css/2.fc5a9450.chunk.css.map",
+    "static/css/main.ab6b3ca3.chunk.css.map": "/ghoraApp/static/css/main.ab6b3ca3.chunk.css.map",
+    "static/js/2.e59e8cd1.chunk.js.LICENSE.txt": "/ghoraApp/static/js/2.e59e8cd1.chunk.js.LICENSE.txt",
+    "static/media/c1-01.jpg": "/ghoraApp/static/media/c1-01.5dca90bb.jpg",
+    "static/media/c1-02.jpg": "/ghoraApp/static/media/c1-02.55e9ca97.jpg",
+    "static/media/c1-03.jpg": "/ghoraApp/static/media/c1-03.bd327c27.jpg",
+    "static/media/d1-01.jpg": "/ghoraApp/static/media/d1-01.7b1a861a.jpg",
+    "static/media/d1-02.jpg": "/ghoraApp/static/media/d1-02.82d64a18.jpg",
+    "static/media/d1-03.jpg": "/ghoraApp/static/media/d1-03.bacf64e2.jpg",
+    "static/media/ghora.png": "/ghoraApp/static/media/ghora.673c5ec0.png",
+    "static/media/h1-01.jpg": "/ghoraApp/static/media/h1-01.7173769d.jpg",
+    "static/media/h1-02.jpg": "/ghoraApp/static/media/h1-02.0d460d03.jpg",
+    "static/media/h1-03.jpg": "/ghoraApp/static/media/h1-03.fe7ceacd.jpg",
+    "static/media/horse-running.jpg": "/ghoraApp/static/media/horse-running.fdfdb09d.jpg",
+    "static/media/logo.png": "/ghoraApp/static/media/logo.ab7520ff.png",
+    "static/media/o1-01.jpg": "/ghoraApp/static/media/o1-01.7c85b6f6.jpg",
+    "static/media/o1-02.jpg": "/ghoraApp/static/media/o1-02.93e1a7cd.jpg",
+    "static/media/o1-03.jpg": "/ghoraApp/static/media/o1-03.46036966.jpg",
+    "static/media/profile.jpg": "/ghoraApp/static/media/profile.8822d9e1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f135a943.js",
+    "static/css/2.fc5a9450.chunk.css",
+    "static/js/2.e59e8cd1.chunk.js",
+    "static/css/main.ab6b3ca3.chunk.css",
+    "static/js/main.b0cbbdda.chunk.js"
+  ]
+}
