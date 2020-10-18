@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "54260b92f1895561be5ad3e2dd92b620",
+    "revision": "33ec7079774413a6e66f2971d20eba1d",
     "url": "/ghoraApp/index.html"
   },
   {
-    "revision": "2bf2516578489aaa3445",
+    "revision": "a57e539cf12893b69d66",
     "url": "/ghoraApp/static/css/2.fc5a9450.chunk.css"
   },
   {
-    "revision": "f26a8b3dd3325108fbe8",
+    "revision": "211d735e20cba51ea1dc",
     "url": "/ghoraApp/static/css/main.ab6b3ca3.chunk.css"
   },
   {
-    "revision": "2bf2516578489aaa3445",
-    "url": "/ghoraApp/static/js/2.e59e8cd1.chunk.js"
+    "revision": "a57e539cf12893b69d66",
+    "url": "/ghoraApp/static/js/2.2f57338c.chunk.js"
   },
   {
     "revision": "42780b3dfc4008075422892f0026a2f6",
-    "url": "/ghoraApp/static/js/2.e59e8cd1.chunk.js.LICENSE.txt"
+    "url": "/ghoraApp/static/js/2.2f57338c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f26a8b3dd3325108fbe8",
-    "url": "/ghoraApp/static/js/main.b0cbbdda.chunk.js"
+    "revision": "211d735e20cba51ea1dc",
+    "url": "/ghoraApp/static/js/main.7f3ca15f.chunk.js"
   },
   {
     "revision": "60ed46e1bfd9dae55643",

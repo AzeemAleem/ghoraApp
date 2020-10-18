@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ghoraApp/precache-manifest.26a2a49626186917081ffa023c4ead41.js"
+  "/ghoraApp/precache-manifest.18ea838cb4733716f5f876fbfb9b387c.js"
 );
 
 self.addEventListener('message', (event) => {

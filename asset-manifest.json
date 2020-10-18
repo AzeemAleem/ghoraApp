@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ghoraApp/static/css/main.ab6b3ca3.chunk.css",
-    "main.js": "/ghoraApp/static/js/main.b0cbbdda.chunk.js",
-    "main.js.map": "/ghoraApp/static/js/main.b0cbbdda.chunk.js.map",
+    "main.js": "/ghoraApp/static/js/main.7f3ca15f.chunk.js",
+    "main.js.map": "/ghoraApp/static/js/main.7f3ca15f.chunk.js.map",
     "runtime-main.js": "/ghoraApp/static/js/runtime-main.f135a943.js",
     "runtime-main.js.map": "/ghoraApp/static/js/runtime-main.f135a943.js.map",
     "static/css/2.fc5a9450.chunk.css": "/ghoraApp/static/css/2.fc5a9450.chunk.css",
-    "static/js/2.e59e8cd1.chunk.js": "/ghoraApp/static/js/2.e59e8cd1.chunk.js",
-    "static/js/2.e59e8cd1.chunk.js.map": "/ghoraApp/static/js/2.e59e8cd1.chunk.js.map",
+    "static/js/2.2f57338c.chunk.js": "/ghoraApp/static/js/2.2f57338c.chunk.js",
+    "static/js/2.2f57338c.chunk.js.map": "/ghoraApp/static/js/2.2f57338c.chunk.js.map",
     "index.html": "/ghoraApp/index.html",
-    "precache-manifest.26a2a49626186917081ffa023c4ead41.js": "/ghoraApp/precache-manifest.26a2a49626186917081ffa023c4ead41.js",
+    "precache-manifest.18ea838cb4733716f5f876fbfb9b387c.js": "/ghoraApp/precache-manifest.18ea838cb4733716f5f876fbfb9b387c.js",
     "service-worker.js": "/ghoraApp/service-worker.js",
     "static/css/2.fc5a9450.chunk.css.map": "/ghoraApp/static/css/2.fc5a9450.chunk.css.map",
     "static/css/main.ab6b3ca3.chunk.css.map": "/ghoraApp/static/css/main.ab6b3ca3.chunk.css.map",
-    "static/js/2.e59e8cd1.chunk.js.LICENSE.txt": "/ghoraApp/static/js/2.e59e8cd1.chunk.js.LICENSE.txt",
+    "static/js/2.2f57338c.chunk.js.LICENSE.txt": "/ghoraApp/static/js/2.2f57338c.chunk.js.LICENSE.txt",
     "static/media/c1-01.jpg": "/ghoraApp/static/media/c1-01.5dca90bb.jpg",
     "static/media/c1-02.jpg": "/ghoraApp/static/media/c1-02.55e9ca97.jpg",
     "static/media/c1-03.jpg": "/ghoraApp/static/media/c1-03.bd327c27.jpg",
@@ -34,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.f135a943.js",
     "static/css/2.fc5a9450.chunk.css",
-    "static/js/2.e59e8cd1.chunk.js",
+    "static/js/2.2f57338c.chunk.js",
     "static/css/main.ab6b3ca3.chunk.css",
-    "static/js/main.b0cbbdda.chunk.js"
+    "static/js/main.7f3ca15f.chunk.js"
   ]
 }
