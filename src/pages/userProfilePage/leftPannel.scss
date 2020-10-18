@@ -1,0 +1,38 @@
+#leftPannel{
+    .outerDiv,.rightPannel{
+        margin:10px; 
+        border:0.2px solid #d1d1d1;
+        box-shadow: 1px 1px 1px #d1d1d1;
+        margin-top:3rem;
+        padding-bottom: 2rem;
+    }
+    h5{
+        text-align:center;
+        font-size: 17px;
+	    color: #565656;
+    }
+    .outer-circle-div{
+        display: flex;
+        justify-content: center;
+
+        .circle{
+               
+                margin-bottom: 2rem;
+                margin-top:3rem;
+        }
+    }
+    h4{
+        text-align:center;
+        color: #5787fa;
+	    font-size: 22px;
+	    font-family: poppins;
+    }
+    .outer-button-div{
+        display: flex;
+        justify-content: center;
+    }
+    .outer-p-div{
+        display: flex;
+        justify-content: left;
+    }
+}
